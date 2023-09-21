@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef;
-  color: #776e65;
+  color: #000000;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -329,58 +329,58 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154548178096504883/Untitled36_20230921184211.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553887768973332/Untitled36_20230921190243.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553934900383874/Untitled36_20230921190008.png");}
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553900674859070/Untitled36_20230921190202.png");}
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553893276106752/Untitled36_20230921190220.png");}
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553859558088824/Untitled36_20230921190440.png");}
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553875613892709/Untitled36_20230921190332.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553870853357610/Untitled36_20230921190350.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
-    background: #edc850;
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553865191047310/Untitled36_20230921190421.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553923462496336/Untitled36_20230921190042.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    color: #f9f6f2;
-    background: #edc22e;
+    color: #000000;
+    background-image: url("https://cdn.discordapp.com/attachments/1049465748537475072/1154553909386412183/Untitled36_20230921190116.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
